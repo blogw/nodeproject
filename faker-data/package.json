@@ -1,0 +1,19 @@
+{
+  "name": "faker-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.8.4",
+    "eslint": "^6.8.0"
+  }
+}
